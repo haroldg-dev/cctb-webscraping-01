@@ -10,6 +10,5 @@
 
 # Libraries
 
-- pip install
-- pip requests
-- pip beautifulsoup4
+- pip install requests
+- pip install beautifulsoup4
